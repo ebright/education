@@ -1,0 +1,24 @@
+{
+  "levels": [
+    {
+      "id": "1",
+      "parentId" : "",
+      "levelName": "Total Company"
+    },
+    {
+      "id": "2",
+      "parentId" : "1",
+      "levelName": "Company D (100% Owned)"
+    }
+  ],
+  "capitalProjects": [
+    {
+      "level" : "Company D (100%)",
+      "amount" : "1000"
+    },
+    {
+      "level" : "Company C (80% owned)",
+      "amount" : "800"
+    } 
+  ]
+}
